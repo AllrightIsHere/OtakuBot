@@ -2,6 +2,8 @@
 
 Este bot foi desenvolvido a partir do [repositório fornecido](https://github.com/daniel-hasan/ri-crawler) pelo professor [Daniel Hasan](https://github.com/daniel-hasan) da disciplina de Recuperação da Informação. 
 
+Período utilizado: `04/05/2022` - `18/07/2022`.
+
 ### Integrantes do Grupo
 
  - [Alexandre Luis](https://github.com/Agronault)
